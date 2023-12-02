@@ -43,6 +43,5 @@ Take a look at the stunning visuals along with the prompts that inspired their g
 
 ---
 
-Feel free to explore and appreciate the artistic outcomes of these AI-generated images. Each image is a unique creation inspired by the prompts provided to the artificial intelligence model.
-
-*Note: Adjust the file names and paths based on the actual names and locations of your image files in your project.*
+Feel free to explore and appreciate the artistic outcomes of these AI-generated images.
+Each image is a unique creation inspired by the prompts provided to the artificial intelligence model.
